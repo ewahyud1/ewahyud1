@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewahyud1
-- 👀 I’m interested in Cloud Engineering/DevOps
-- 🌱 I’m currently learning GoLang, Python and DevOps
+- 👀 I’m interested in Cloud Engineering/DevOps/Site Reliability
+- 🌱 I’m currently learning Python and DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... here would work.
 
