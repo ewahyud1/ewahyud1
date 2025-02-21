@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ewahyud1
-- 👀 I’m interested in Cloud Engineering/DevOps/Site Reliability
+- 👀 I’m interested in Cloud/DevOps/Site Reliability Engineering
 - 🌱 I’m currently learning Python and DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... here would work.
